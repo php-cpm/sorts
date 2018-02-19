@@ -26,4 +26,4 @@
  }
  
  echo "\n after: \n";
- print_r($list);
+ print_r(bubbleSort($list));
